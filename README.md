@@ -1,16 +1,23 @@
-<div align="center">
+<p align="center">
+  <img src="Support/AppIcon.png" width="144" alt="PinAnyApp app icon">
+</p>
 
-# PinAnyApp
+<h1 align="center">PinAnyApp</h1>
 
-### Keep any macOS window visible while you work.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=SF+Mono&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=356B5A&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Keep+any+macOS+window+visible+while+you+work.;Pick+a+window.+Pin+the+preview.+Stay+focused."
+    alt="Keep any macOS window visible while you work."
+  >
+</p>
 
-[![Swift 5.10](https://img.shields.io/badge/Swift-5.10-F05138?logo=swift&logoColor=white)](https://www.swift.org)
-[![macOS 14+](https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
-![Status: Alpha](https://img.shields.io/badge/status-alpha-5B8C78)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-alpha-356b5a" alt="Alpha">
+  <img src="https://img.shields.io/badge/macOS-14%2B-1f2937" alt="macOS 14 or newer">
+  <img src="https://img.shields.io/badge/Swift-5.10-f05138" alt="Swift 5.10">
+</p>
 
 PinAnyApp is a native menu-bar utility that turns any open window into a floating, always-on-top preview. Pick a window with the macOS system picker, place it where you need it, and keep the important parts of your workspace in sight.
-
-</div>
 
 > [!NOTE]
 > PinAnyApp is currently in alpha development. Downloads and source code will be published when the first public build is ready.
